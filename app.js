@@ -17,7 +17,7 @@
         let hexG = g.toString(16).padStart(2,'0');
         let hexB = b.toString(16).padStart(2,'0');
 
-        return `#${hexR}${hexB}${hexG}`;
+        return `#${hexR}${hexG}${hexB}`;
     }
 
     let hexCol;
