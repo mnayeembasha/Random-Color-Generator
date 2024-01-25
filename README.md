@@ -12,7 +12,7 @@ The Random Color Generator is a simple web application that allows users to gene
 
 ## How to Use
 
-1. Open the [Random Color Generator](https://github.com/mnayeembasha/Random-Color-Generator) in your web browser.
+1. Open the [Random Color Generator](https://mnayeembasha.github.io/Random-Color-Generator) in your web browser.
 2. Click the "Generate Color" button to get a random color.
 3. Copy the color code by clicking on it.
 4. Use the copied color code in your projects.
