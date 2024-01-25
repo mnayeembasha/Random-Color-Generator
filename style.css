@@ -54,42 +54,6 @@ button:hover{
     }
 
 }
-/* @media(max-width: 380px){
-    #para1,#para2{
-        width:30%;
-        height:30px;
-        font-size: 0.8rem;
-    }
-
-}
-@media(width <= 321px){
-    #para1,#para2{
-        width:30%;
-        height:20px;
-        font-size: 0.6rem;
-    }
-
-}
-/*
-  /* 220 to 260 */
-  /*
-@media(min-width:210px ) and(max-width:260px) {
-    #para1,#para2{
-        width:40%;
-        height:20px;
-        font-size: 0.2rem;
-    }
-
-}
-@media(width <= 200px){
-    #para1,#para2{
-        width:30%;
-        height:20px;
-        font-size: 0.4rem;
-    }
-
-} */
-
 @media(max-width:465px){
     #para1,#para2{
         width:35%;
